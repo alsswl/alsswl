@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Minji's+GitHub!👩🏻‍💻)](https://git.io/typing-svg)
+
  
 <div align="left">
+
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
@@ -83,6 +85,14 @@
 🥉 [2023 CNU SW/AI Project Fair Devday 코딩 경진대회 장려상] *2023.06.23, 충남대학교 컴퓨터융합학부*
 
 🥉 [SW-IT Contest 비전공자 7위] *2022.09.14, 충남대학교 컴퓨터융합학부*
+
+<br>
+
+## 🎖️ Certificate 🎖️
+
+📃 SQLD(Structured Query Language Developer)
+
+📃 NCA(Naver Cloud Associate)
 
 <br>
  
