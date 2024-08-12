@@ -6,14 +6,17 @@
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -24,6 +27,8 @@
     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <br>
 </div><br>
  
@@ -52,52 +57,45 @@
 </div><br>
 
 ## 💪 Experience 💪
-- **SSAFY 12기** _(2024.07~)_
-- 대한전자공학회 IEIE 하계종합학술대회 학회 _(2024.06.26 ~ 2024.06.28)_
-- 소프트스퀘어드 외주 개발자 근무 _(2023.12 ~ 2024.03)_
-- 제 17회 공개SW 개발자대회 참가 _(2023.07 ~ 2023.10)_
-- CMC(Central MakeUs Challenge 12기 _(2023.01 ~ 2023.03)_
-- 소프트스퀘어드 라이징캠프 서버 11기 _(2022.09 ~ 2022.12)_
-- (주)나이스디앤비 IT 개발팀 인턴 근무 _(2022.07 ~ 2022.12)_
-- LG U+ 신규 서비스 자문단 _(2022.04 ~ 2022.10)_
-- 교내 창업동아리 _(2021.06 ~ 2021.09)_
-- 교내 중앙댄스동아리 ODC _(2020.03 ~ 2021.02)_
+- 카카오테크캠퍼스 2기 백엔드 _(2024.04~)_
+- 글로벌 SW/AI 인재 프로그램 9기 _(2024.04 ~)_
+- SPG(System Programming Group) 교육부장 _(2024.03 ~)_
+- 멋쟁이사자처럼 12기 백엔드 _(2024.02~)_
 
 <br>
 
 ## 💻 Project 💻
-- (주)아인스 산학협력 프로젝트, IoT 및 AAS 기반 스마트 팩토리 운용 환경 구축 _(2023.07 ~ 2024.07)_
-- 그릿지 서버 개발 _(2023.12 ~ 2024.03)_
-- EATERY 서버 개발 _(2023.10 ~ 2024.03)_
-- 이게뭐약! 서버 개발 _(2023.07 ~ 2023.10)_
-- FROMU 서버 1인 개발 _(2023.01 ~ 2023.07)_
-- 제스처 인식 기반 키오스크 제작 _(2022.07 ~ 2022.11)_
+- F!lB 서버 개발 _(2024.07 ~ 2024.08)_
+- 카카오톡 선물하기 서버 개발(클론코딩) _(2024.06 ~ 2024.07)_
+- You Are My Hero 앱 개발 _(2023.01 ~ 2023.02)_
 
 <br>
 
 ## 🏆 Award 🏆
 
-🥈 [2020년 창의아이디어 경진대회 은상] *2020.12.18, 동국대학교융합교육원*
-<br> &nbsp; &nbsp; 사람의 손 없이 자동으로 넘어가는 악보를 구현한 웹 사이트, '스마트 악보'
+🥈 [SW융합클러스터 2.0 세종 DX 해커톤 최우수상(세종 테크노파크 원장상)] *2024.08.03, 과학기술정보통신부*
+<br> &nbsp; &nbsp; AI가 알려주는 객관적인 감정인식, 'F!LB'
 
-🥉 [2021년 제8회 전국ICT융합공모전 장려상] *2021.09.29, 충북과학기술혁신원, 충북ICT산업협회*
-<br> &nbsp; &nbsp; 온라인 미술 교육을 제공하고 그림 피드백 단위의 거래를 중개하는 웹 서비스, '드로잉 서포터즈'
+🥉 [SW-IT Contest 전공자 5위] *2023.09.17, 충남대학교 컴퓨터융합학부*
 
-🏅 [12th Central MakeUs Challenge 최우수상] *2023.03.25, Central MakeUs Challenge*
-<br> &nbsp; &nbsp; 디지털에서도 연인, 친구, 가족 간 교환 일기를 주고받으며 속마음을 자유롭게 공유할 수 있는 앱 서비스, ‘FromU’
+🥈 [코드트리 소감문 경진대회 2위] *2023.09.15, 충남대학교 소프트웨어중심대학 사업단*
 
-📄 [IEIE 하계종합학술대회 학회 참가 및 학술지 논문 게재] *2024.06.28, 대한전자공학회*
-<br> &nbsp; &nbsp; Kubernetes 기반 IoT 모니터링 및 AI 모델 배포를 위한 AAS 주도 코드 생성
+🥉 [2023 CNU SW/AI Project Fair Devday 코딩 경진대회 장려상] *2023.06.23, 충남대학교 컴퓨터융합학부*
+
+🥉 [SW-IT Contest 비전공자 7위] *2022.09.14, 충남대학교 컴퓨터융합학부*
 
 <br>
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/6_o777/">
+    <a href="https://www.instagram.com/_minziya/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    <a href="mailto:dlwlgh1254@gmail.com">
+    <a href="mailto:minbee6666@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="mailto:alswl4223@naver.com">
+        <img src="https://img.shields.io/badge/NaverMail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
 </div><br>
     
