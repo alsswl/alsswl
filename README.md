@@ -44,8 +44,8 @@
 </div><br>
 
 ## 💪 Experience 💪
+- UCSD Qualcomm Institute AI Project_(2025.1 ~ 2025.2)_
 - 카카오테크캠퍼스 2기 백엔드 수료_(2024.04 ~ 2024.11)_
-- 글로벌 SW/AI 인재 프로그램 9기 _(2024.04 ~)_
 - SPG(System Programming Group) 교육부장 _(2024.03 ~ 2024.11)_
 - 멋쟁이사자처럼 12기 백엔드 _(2024.02~)_
 
