@@ -44,15 +44,15 @@
 </div><br>
 
 ## 💪 Experience 💪
-- UCSD Qualcomm Institute AI Project_(2025.1 ~ 2025.2)_
-- 카카오테크캠퍼스 2기 백엔드 수료_(2024.04 ~ 2024.11)_
+- UCSD Qualcomm Institute AI Project _(2025.1 ~ 2025.2)_
+- 카카오테크캠퍼스 2기 백엔드 수료 _(2024.04 ~ 2024.11)_
 - SPG(System Programming Group) 교육부장 _(2024.03 ~ 2024.11)_
 - 멋쟁이사자처럼 12기 백엔드 _(2024.02~)_
 
 <br>
 
 ## 💻 Project 💻
-- Hire-Higher 서버 개발 _(2024.09 ~ 2024.11)
+- Hire-Higher 서버 개발 _(2024.09 ~ 2024.11)_
 - F!lB 서버 개발 _(2024.07 ~ 2024.08)_
 - 카카오톡 선물하기 서버 개발(클론코딩) _(2024.06 ~ 2024.07)_
 - You Are My Hero 앱 개발 _(2023.01 ~ 2023.02)_
