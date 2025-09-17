@@ -20,12 +20,6 @@
 </div>
  
  ---
- [![GitHub Streak](https://streak-stats.demolab.com?user=alsswl&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-      </td>
-      <td align="center" valign="middle">  
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsswl&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/alsswl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsswl&layout=compact)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswl4223)](https://solved.ac/alswl4223)
 
 
